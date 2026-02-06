@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hey there, I'm Emmanuel 👋🏾
 
-<!--
-**EmmanuelBronyah/EmmanuelBronyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a backend-focused software engineer who builds scalable, easy-to-understand solutions grounded in best design practices, delivering reliable and impactful results.
 
-Here are some ideas to get you started:
+I approach challenges as if they were my own, creating practical solutions that make a difference. I share my work so others can benefit and take pride in building technology that make life easy, whether for individuals, companies, or institutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech & Tools
+* **Languages:** Python, JavaScript
+* **Frameworks:** Django, Django REST Framework, React
+* **Databases:** PostgreSQL
+* **Cloud / DevOps:** AWS, Docker
+  
+---
+
+### Fun Facts
+* I love anime, real human movies/series are overrated 😩
+* Avid reader of financial books  
+* My goal: retire early, financially free, and explore the world  
+* Best usher in church, no debates 😮‍💨
+
+### Reach Me
+* Email: emmanuelbronyah7@gmail.com
+* LinkedIn: [www.linkedin.com/in/emmanuel-bronyah]
