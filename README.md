@@ -1,8 +1,12 @@
 ## Hey there, I'm Emmanuel 👋🏾
 
-I’m a backend-focused software engineer who builds scalable, easy-to-understand solutions grounded in best design practices, delivering reliable and impactful results.
+I’m a backend-focused software engineer.  
+I build scalable, easy-to-understand solutions grounded in best design practices.  
+My goal is to deliver reliable, high-impact results that make a difference.  
 
-I approach challenges as if they were my own, creating practical solutions that make a difference. I share my work so others can benefit and take pride in building technology that make life easy, whether for individuals, companies, or institutions.
+I approach challenges as if they were my own, creating practical solutions that solve real problems.  
+I share my work so others can benefit, taking pride in building technology that makes life easier -  
+for individuals, companies, and institutions alike.
 
 ### Tech & Tools
 * **Languages:** Python, JavaScript
